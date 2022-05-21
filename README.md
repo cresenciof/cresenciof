@@ -4,7 +4,7 @@ Hi 👋 My name is Cresencio
 JS Developer
 ------------
 
-I love writing/reading code. With just over 3 years working with JavaScript and React, and a couple of years with React Native and NextJS, it has become my favorite stack. I constantly find myself learning new things, I'm a lover of JS technologies (although I prefer everything to be typed with TS). I started writing code around 2014 (with Java) in my internship but it was until the end of 2017 that I fully dedicated myself to writing and maintaining projects, I've had the opportunity to work in several technologies and languages but without a doubt JS is my favorite.
+I love writing/reading code. With just over 3 years working with JavaScript and React, and a couple of years with React Native and NextJS. I constantly find myself learning new things, I'm a lover of JS technologies (although I prefer everything to be typed with TS). I started writing code around 2014 (with Java) in my internship but it was until the end of 2017 that I fully dedicated myself to writing and maintaining projects, I've had the opportunity to work in several technologies and languages but without a doubt JS is my favorite.
 
 * 🌍  I'm based in Cancún, MX
 * ✉️  You can contact me at [cresenciofl@icloud.com](mailto:cresenciofl@icloud.com)
