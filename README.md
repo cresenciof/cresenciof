@@ -43,20 +43,10 @@ Private, commercial work.
 
 ## 📊 GitHub
 
-<a href="https://github.com/cresenciof">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=cresenciof&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917"
-    alt="Cresencio's GitHub stats"
-  />
-</a>
-<a href="https://github.com/cresenciof">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cresenciof&layout=compact&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=1c1917"
-    alt="Top languages"
-  />
-</a>
+<p align="left">
+  <a href="https://github.com/cresenciof?tab=followers"><img src="https://img.shields.io/github/followers/cresenciof?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917" alt="Followers" /></a>
+  <a href="https://github.com/cresenciof?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcresenciof&query=%24.public_repos&style=for-the-badge&logo=github&label=Repos&color=0891b2&labelColor=1c1917" alt="Public repositories" /></a>
+</p>
 
 ---
 
