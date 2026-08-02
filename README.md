@@ -45,7 +45,6 @@ Private, commercial work.
 
 <p align="left">
   <a href="https://github.com/cresenciof?tab=followers"><img src="https://img.shields.io/github/followers/cresenciof?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917" alt="Followers" /></a>
-  <a href="https://github.com/cresenciof/echo-script"><img src="https://img.shields.io/github/stars/cresenciof/echo-script?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917" alt="echo-script stars" /></a>
 </p>
 
 ---
