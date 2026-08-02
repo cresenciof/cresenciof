@@ -26,8 +26,11 @@ and internal platforms. Core engineer behind **Spot2Nite** and **FleetSync**.
 **[echo-script](https://github.com/cresenciof/echo-script)** — native macOS audio transcription on Apple Silicon.
 Tauri + React shell with a Python sidecar running `mlx-whisper`. Ships via a [Homebrew tap](https://github.com/cresenciof/homebrew-echo-script).
 
-**Spot2Nite & FleetSync** — production RV-booking marketplace and fleet-management SaaS.
-Private, commercial work.
+**[Spot2Nite](https://www.spot2nite.com/)** — RV-booking marketplace connecting travelers with overnight spots.
+Core engineer. Closed source.
+
+**[FleetSync](https://fleet-sync.co/)** — all-in-one SaaS for RV fleet operations and distribution.
+Core engineer. Closed source.
 
 ---
 
