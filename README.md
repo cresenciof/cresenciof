@@ -47,6 +47,21 @@ Private, commercial work.
   <a href="https://github.com/cresenciof?tab=followers"><img src="https://img.shields.io/github/followers/cresenciof?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917" alt="Followers" /></a>
 </p>
 
+<a href="https://github.com/cresenciof">
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=cresenciof&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917"
+    alt="Cresencio's GitHub stats"
+  />
+</a>
+<a href="https://github.com/cresenciof">
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=cresenciof&layout=compact&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=1c1917"
+    alt="Most used languages"
+  />
+</a>
+
 ---
 
 ## 🔗 Links
